@@ -1,2 +1,2 @@
-#该项目用于收集chaincommand的设计作品
+该项目用于收集chaincommand的设计作品
 设计软件：Adobe Illustrator、Inkscape
